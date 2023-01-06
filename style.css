@@ -55,18 +55,18 @@
     margin-bottom: 130px;
 }
 
-.img-section{
-   margin-right: 90px;
-   background: rgba(241, 91, 34, 0.2);
-   border-radius: 100%;
-   
+.img-section {
+    margin-right: 90px;
+    background: rgba(241, 91, 34, 0.2);
+    border-radius: 100%;
+
 }
 
 .section-content {
     margin-top: 260px;
 }
 
-.section-title{
+.section-title {
     color: #151414;
     font-weight: 700;
     font-size: 40px;
@@ -74,72 +74,111 @@
     margin-bottom: 25px;
 }
 
-.section-description{
+.section-description {
     color: #444343;
     font-size: 15px;
     margin-bottom: 16px;
 
 }
 
-.section-list{
+.section-list {
     color: #444343;
     font-size: 15px;
 }
 
-.icon{
+.icon {
     width: 10px;
     height: 10px;
 }
 
 /* my plan section styles */
 
-.my-plan{
+.my-plan {
     text-align: center;
     margin-bottom: 50px;
 }
 
-.skills{
+.skills {
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-bottom: 123px;
+
 }
 
-.skill-sections{
+.skill-sections {
     margin: 0 25px;
 }
 
-.skills-img{
-  width: 50px;
-  height: 50px;
-  margin-bottom: 20px;
-  
-}
-.skills-img-2{
+.skills-img {
     width: 50px;
-  height: 50px;
-  margin-bottom: 20px;
+    height: 50px;
+    margin-bottom: 20px;
+
 }
-.skills-img-3{
+
+.skills-img-2 {
     width: 50px;
     height: 50px;
     margin-bottom: 20px;
 }
-.skills-img-4{
+
+.skills-img-3 {
     width: 50px;
-  height: 50px;
-  margin-bottom: 20px;
+    height: 50px;
+    margin-bottom: 20px;
 }
 
-.skills-list{
+.skills-img-4 {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.skills-list {
     color: #151414;
     font-size: 30px;
     font-weight: 700;
 }
 
-.skill-description{
+.skill-description {
     color: #737272;
     font-size: 20px;
     font-weight: 500;
 }
 
+/* positive mindset section */
+
+.positive-section {
+    background-image: url('images/gradient2.png'), url('images/watch.png');
+    background-repeat: no-repeat;
+    width: 980px;
+    height: 300px;
+    margin-top: 130px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+    margin-left: 270px;
+    border-radius: 10px;
+}
+
+.title-btn {
+    padding: 59px 600px 59px 65px;
+}
+
+.positive-description {
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 28px;
+    margin-bottom: 25px;
+}
+
+.primary-btn {
+    color: #F15B22;
+    background: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    width: 110px;
+    height: 60px;
+    border: 0;
+    border-radius: 2px;
+    padding: 13px 13px;
+}
