@@ -43,3 +43,50 @@
     border: 0;
     margin-left: 147px;
 }
+
+/* My failure year section */
+
+
+.my-year {
+    display: flex;
+    margin-top: 140px;
+    padding-left: 206px;
+    padding-right: 330px;
+    margin-bottom: 130px;
+}
+
+.img-section{
+   margin-right: 90px;
+   background: rgba(241, 91, 34, 0.2);
+   border-radius: 100%;
+   
+}
+
+.section-content {
+    margin-top: 260px;
+}
+
+.section-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 25px;
+}
+
+.section-description{
+    color: #444343;
+    font-size: 15px;
+    margin-bottom: 16px;
+
+}
+
+.section-list{
+    color: #444343;
+    font-size: 15px;
+}
+
+.icon{
+    width: 10px;
+    height: 10px;
+}
