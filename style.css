@@ -177,8 +177,104 @@
     font-weight: 600;
     font-size: 15px;
     width: 110px;
-    height: 60px;
+    height: 45px;
     border: 0;
     border-radius: 2px;
     padding: 13px 13px;
+}
+
+
+/* Footer section styles */
+
+.footer-section {
+    background: #151414;
+    display: flex;
+    max-width: 1519px;
+    height: 440px;
+    color: #F8F8F8;
+
+}
+
+.content {
+    margin: 119px 230px 119px 273px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.footer-description {
+    font-weight: 400;
+    font-size: 13px;
+    width: 485px;
+    margin-bottom: 20px;
+
+}
+
+.email {
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 16px;
+}
+
+.phone {
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 32px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.icons-1 {
+    width: 29px;
+    height: 30px;
+    margin-right: 8px;
+}
+
+.icons-2 {
+    width: 29px;
+    height: 30px;
+    margin-right: 8px;
+}
+
+.icons-3 {
+    width: 29px;
+    height: 30px;
+}
+
+.subscribe {
+    margin: 115px 230px 240px 0;
+}
+
+.subs-section {
+    font-weight: 600;
+    font-size: 21px;
+    margin-bottom: 25px;
+}
+
+.input-email {
+    color: #F3F3F3;
+    background: #151414;
+    width: 250px;
+    height: 40px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    padding: 5px 0 5px 15px;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.subs-btn {
+    color: #F15B22;
+    background: #FFFFFF;
+    width: 140px;
+    height: 55px;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: 15px;
 }
